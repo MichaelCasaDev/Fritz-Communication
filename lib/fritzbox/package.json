@@ -1,0 +1,23 @@
+{
+  "name": "fritzbox",
+  "version": "1.0.0",
+  "author": "MichaelDevC",
+  "description": "Fritzbox - UPnP/IGD for node.js",
+  "main": "./Fritzbox",
+  "keywords": [
+    "TR-064",
+    "UPnP",
+    "IGD",
+    "Fritz.Box",
+    "Router"
+  ],
+  "dependencies": {
+    "async": ">=0.2.0",
+    "bluebird": "^3.4.6",
+    "eyes": ">=0.1.0",
+    "request": ">=2.30",
+    "underscore": "^1.8.3",
+    "xml2js": ">=0.4.0",
+    "xmlbuilder": "^8.2.2"
+  }
+}
